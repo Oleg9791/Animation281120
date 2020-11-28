@@ -8,4 +8,4 @@
 [**КОЛОБОК**](kolobok.jpg)
 ![Колобок](kolobok.jpg)
 ***
-: телефон :
+: simple_smile :
