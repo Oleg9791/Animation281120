@@ -9,4 +9,4 @@
 ![Колобок](kolobok.jpg)
 ***
 (https://www.webfx.com/tools/emoji-cheat-sheet/)
-: simple_smile :
+👨‍🎓
