@@ -10,3 +10,5 @@
 ***
 (https://www.webfx.com/tools/emoji-cheat-sheet/)
 👨‍🎓
+***КОД***
+`img src="kolobok.jpg" alt="картинка"`
